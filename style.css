@@ -28,4 +28,11 @@ h1 {
 
 .container img {
     float: left;
+
+    margin: 0px 10px 10px 0;
 }
+
+p {
+    line-height: 1.6;
+}
+

@@ -1,0 +1,31 @@
+body {
+    background-image: url("gravel.png")
+}
+header {
+    background-color: #ffffff;
+    height: 60px;
+}
+
+h1 {
+    color: #ffffff;
+    background-color: #4aaaa5;
+    display: inline-block;
+    padding: 0 5px 5px 0;
+    height: 60px;
+    margin-left: 0;
+}
+
+.jumbotron {
+    margin-top: 50px;
+    background-color: #ffffff;
+    padding-top: 50px;
+}
+
+.jumbotron h1 {
+    background-color: #ffffff;
+    color: #4aaaa5;
+}
+
+.container img {
+    float: left;
+}

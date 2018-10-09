@@ -68,3 +68,8 @@ footer p {
     text-align: center;
 }
 
+.portfolio-label {
+    background-color: #4aaaa5;
+    width: 200px;
+    margin-bottom: 20px;
+}

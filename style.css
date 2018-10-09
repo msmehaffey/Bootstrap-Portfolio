@@ -3,17 +3,25 @@ body {
 }
 header {
     background-color: #ffffff;
-    height: 60px;
 }
 
 h1 {
     color: #ffffff;
     background-color: #4aaaa5;
-    display: inline-block;
-    padding: 0 5px 5px 0;
     height: 60px;
     margin-left: 0;
 }
+
+nav.navbar {
+    padding: 0px;
+}
+
+span.navbar-brand {
+    background-color: #4aaaa5;
+    display: inline-block;
+    padding: 10px;
+}
+
 
 .jumbotron {
     margin-top: 50px;
@@ -34,5 +42,29 @@ h1 {
 
 p {
     line-height: 1.6;
+}
+
+#navbarNav {
+    float: right;
+}
+
+.navbar-nav-ml-auto {
+    color: orange;
+
+}
+
+footer {
+    background-color: grey;
+    border-top: 10px solid #4aaaa5;
+    position: fixed;
+    bottom: 0;
+    height: 60px;
+    width: 100%;
+}
+
+footer p {
+    color: #ffffff;
+    margin: 0 auto;
+    text-align: center;
 }
 

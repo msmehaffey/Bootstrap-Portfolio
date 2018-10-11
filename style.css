@@ -86,3 +86,12 @@ footer p {
     text-align: center;
 }
 
+textarea#formGroupExampleInput3 {
+    height: 175px;
+}
+
+button.btn.btn-success {
+    background-color: #4aaaa5;
+    border: none;
+}
+
